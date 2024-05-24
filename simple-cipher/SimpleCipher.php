@@ -22,6 +22,8 @@
  * To disable strict typing, comment out the directive below.
  */
 
+// This code is referenced from https://exercism.org/tracks/php/exercises/simple-cipher/solutions/ArranCrowley
+
 declare(strict_types=1);
 
 class SimpleCipher
